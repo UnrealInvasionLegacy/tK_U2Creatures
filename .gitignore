@@ -1,0 +1,6 @@
+*.log
+*.swp
+*.bak
+.Classes
+Classes.sha1sum
+UT2004.ini
